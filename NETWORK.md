@@ -20,3 +20,11 @@ Discovery guide: [EN](https://ziontechgroup.com/apps/discovery-showcase.html) ·
 Discovery is free and online. Results appear immediately in the browser and are submitted for email delivery to the client and commercial@ziontechgroup.com, with Carlos copied. Acceptance is not confirmed inbox delivery. Validate app fit, data permissions and human review before implementation.
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+
+## Plan a safe communications trial
+
+[Communications Discovery Guide](https://ziontechgroup.com/apps/communications-discovery-guide.html) links this app to related call, voicemail and meeting workflows, synthetic test cases, a written trial brief, baseline measurements, human review and stop rules.
+
+[Free Discovery](https://ziontechgroup.com/discovery/) · [Report Workbench](https://ziontechgroup.com/apps/discovery-report-workbench.html) · [Pilot Planner](https://ziontechgroup.com/automation-pilot-planner/) · [ROI Calculator](https://ziontechgroup.com/roi-calc/) · [Governance Checklist](https://ziontechgroup.com/ai-governance-checklist/).
+
+A landing page is not proof of a working production integration. Use synthetic examples and verify capabilities before making implementation or SLA commitments. No dispatch or purchase without formal client confirmation and a PO number.
