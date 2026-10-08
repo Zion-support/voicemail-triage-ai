@@ -1,30 +1,25 @@
-# Voicemail Triage AI
+# Voicemail Triage AI — connected planning workflows
 
-Transcribe, score and route voicemails to the right owner instantly.
+Reviewed 8 October 2026. Callback ownership and escalation guidance plus a local pilot worksheet; not verified voicemail transcription, automated scoring or routing.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Batch 98 (Voice & Communications AI): [smart-call-routing-ai](https://github.com/Zion-support/smart-call-routing-ai) · [call-intelligence-hub](https://github.com/Zion-support/call-intelligence-hub) · [meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai) · [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio)
-- Related: [support-ticket-triager](https://github.com/Zion-support/support-ticket-triager) · [sla-breach-predictor](https://github.com/Zion-support/sla-breach-predictor)
-- Free Discovery: https://ziontechgroup.com/discovery/ · Live: https://ziontechgroup.com/voicemail-triage-ai/
+## Related apps and source
+[Smart Call Routing AI](https://ziontechgroup.com/smart-call-routing-ai/) · [source](https://github.com/Zion-support/smart-call-routing-ai)
+[Call Intelligence Hub](https://ziontechgroup.com/call-intelligence-hub/) · [source](https://github.com/Zion-support/call-intelligence-hub)
+[Voicemail Triage AI](https://ziontechgroup.com/voicemail-triage-ai/) · [source](https://github.com/Zion-support/voicemail-triage-ai)
+[Meeting Intelligence AI](https://ziontechgroup.com/meeting-intelligence-ai/) · [source](https://github.com/Zion-support/meeting-intelligence-ai)
 
-## Continue the communications journey
+Related concepts: [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio), [support-ticket-triager](https://github.com/Zion-support/support-ticket-triager), [sla-breach-predictor](https://github.com/Zion-support/sla-breach-predictor). Links are not evidence of integration compatibility.
 
-[Smart Call Routing AI](https://ziontechgroup.com/smart-call-routing-ai/) · [Call Intelligence Hub](https://ziontechgroup.com/call-intelligence-hub/) · [Meeting Intelligence AI](https://ziontechgroup.com/meeting-intelligence-ai/)
+## Five-language readiness review
+[EN](https://ziontechgroup.com/apps/communications-readiness.html) · [PT-BR](https://ziontechgroup.com/pt/apps/communications-readiness.html) · [ES](https://ziontechgroup.com/es/apps/communications-readiness.html) · [FR](https://ziontechgroup.com/fr/apps/communications-readiness.html) · [DE](https://ziontechgroup.com/de/apps/communications-readiness.html)
 
-[Suite catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-COMMUNICATIONS.md) · [Live network hub](https://ziontechgroup.com/zion-app-network/)
+[Compare workflows](https://ziontechgroup.com/apps/communications-decision-guide.html) · [Local workflow lab](https://ziontechgroup.com/apps/communications-workflow-lab.html). Review ownership, baseline, consent, human approval, rollback and receipt evidence. Checkboxes record human assertions, not production certification.
 
-Discovery guide: [EN](https://ziontechgroup.com/apps/discovery-showcase.html) · [PT-BR](https://ziontechgroup.com/apps/discovery-showcase-pt.html) · [ES](https://ziontechgroup.com/apps/discovery-showcase-es.html) · [FR](https://ziontechgroup.com/apps/discovery-showcase-fr.html) · [DE](https://ziontechgroup.com/apps/discovery-showcase-de.html).
+## Hubs and free Discovery
+[Homepage](https://ziontechgroup.com/) · [Network](https://ziontechgroup.com/zion-app-network/) · [Master catalogue](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md) · [Suite catalogue](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-COMMUNICATIONS.md) · [Tools](https://github.com/Zion-support/zion-tools).
 
-Discovery is free and online. Results appear immediately in the browser and are submitted for email delivery to the client and commercial@ziontechgroup.com, with Carlos copied. Acceptance is not confirmed inbox delivery. Validate app fit, data permissions and human review before implementation.
+[Free Discovery](https://ziontechgroup.com/discovery/) generates a report immediately, then requests delivery to the validated client and commercial@ziontechgroup.com. No Carlos or unrelated automatic copy is added. Provider acceptance is not verified inbox receipt; copy/download/manual fallback remain available. Paid implementation is optional and separate.
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+[Report Workbench](https://ziontechgroup.com/apps/discovery-report-workbench.html) · [Pilot Planner](https://ziontechgroup.com/automation-pilot-planner/) · [ROI Calculator](https://ziontechgroup.com/roi-calc/) · [Governance Checklist](https://ziontechgroup.com/ai-governance-checklist/).
 
-## Plan a safe communications trial
-
-[Communications Discovery Guide](https://ziontechgroup.com/apps/communications-discovery-guide.html) links this app to related call, voicemail and meeting workflows, synthetic test cases, a written trial brief, baseline measurements, human review and stop rules.
-
-[Free Discovery](https://ziontechgroup.com/discovery/) · [Report Workbench](https://ziontechgroup.com/apps/discovery-report-workbench.html) · [Pilot Planner](https://ziontechgroup.com/automation-pilot-planner/) · [ROI Calculator](https://ziontechgroup.com/roi-calc/) · [Governance Checklist](https://ziontechgroup.com/ai-governance-checklist/).
-
-A landing page is not proof of a working production integration. Use synthetic examples and verify capabilities before making implementation or SLA commitments. No dispatch or purchase without formal client confirmation and a PO number.
+Use synthetic data, verify permissions and preserve a manual stop/rollback. No purchase or dispatch without formal client authorization and applicable PO. This cohort does not establish network-wide translation, functionality or interlink completeness.
